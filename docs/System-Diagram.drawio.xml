@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="GkDNjnHTOuk0CE1olyqj">
+    <mxGraphModel dx="1555" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cVqW_i9szfDIz6uq089X-7" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#FFFFFF);" target="cVqW_i9szfDIz6uq089X-2" value="Program starts">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div dir=&quot;ltr&quot;&gt;&lt;code&gt;START&lt;br&gt;Main.java&lt;br&gt;&lt;br&gt;Program Entry Point&lt;/code&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="156" x="336" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-10" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-11" connectable="0" parent="cVqW_i9szfDIz6uq089X-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Verdana;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;font&gt;User choice&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0885" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;&lt;font&gt;DISPLAY MENU&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;1. Add Grade&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;2. View Grades&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;3. Calculate Average&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;4. Calculate Required Grade&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;5. Exit&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="196" x="316" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-17" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);">
+          <mxGeometry relative="1" x="-0.2923" as="geometry">
+            <mxPoint x="341" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-22" connectable="0" parent="cVqW_i9szfDIz6uq089X-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Verdana;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;font&gt;Option 1&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3637" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-19" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-23" connectable="0" parent="cVqW_i9szfDIz6uq089X-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Verdana;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;font&gt;Option 2&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3088" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-20" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.466;entryY=0.025;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-15">
+          <mxGeometry relative="1" x="0.0182" as="geometry">
+            <mxPoint x="660" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-27" connectable="0" parent="cVqW_i9szfDIz6uq089X-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Verdana;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;font&gt;Option 4&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6565" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-21" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-14">
+          <mxGeometry relative="1" x="0.0442" as="geometry">
+            <mxPoint x="240" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-24" connectable="0" parent="cVqW_i9szfDIz6uq089X-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontFamily=Verdana;fontColor=light-dark(#000000,#FFFFFF);" value="&lt;font&gt;Option 3&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.6765" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;USER SELECTS&lt;/div&gt;&lt;div&gt;AN ACTION&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="109" x="361" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-30" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-26">
+          <mxGeometry relative="1" x="-0.1786" as="geometry">
+            <Array as="points">
+              <mxPoint x="325.5" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;ADD GRADE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Enter assignment name,&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;grade and weight&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="270" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-31" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-26">
+          <mxGeometry relative="1" x="-0.1786" as="geometry">
+            <Array as="points">
+              <mxPoint x="505.5" y="544" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;VIEW GRADES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Display saved&lt;/div&gt;&lt;div&gt;assignments and grades&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="420" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-35" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;CALCULATE AVERAGE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Calculate current&lt;/div&gt;&lt;div&gt;weighted course average&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="120" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-36" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-28">
+          <mxGeometry relative="1" x="0.0224" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="520" />
+              <mxPoint x="560" y="520" />
+              <mxPoint x="560" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;CALCULATE REQUIRED GRADE&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Calculate&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;target score&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="570" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-32" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;GRADE STORAGE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ArrayList&amp;lt;Grade&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Stores all entered grades&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="345.5" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-33" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;&lt;div&gt;GRADE CALCULATIONS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;calculateAverage()&lt;/div&gt;&lt;div&gt;calculateRequiredGrade()&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="156" x="337.5" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-37" edge="1" parent="1" source="cVqW_i9szfDIz6uq089X-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Verdana;fontColor=light-dark(#000000,#0F0F0F);" target="cVqW_i9szfDIz6uq089X-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="760" />
+              <mxPoint x="730" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVqW_i9szfDIz6uq089X-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#1ba1e2;fontColor=light-dark(#000000,#0F0F0F);strokeColor=#006EAF;fontFamily=Verdana;" value="&lt;div&gt;DISPLAY RESULTS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Show calculated grades&lt;/div&gt;&lt;div&gt;and course averages&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="485.5" y="720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
